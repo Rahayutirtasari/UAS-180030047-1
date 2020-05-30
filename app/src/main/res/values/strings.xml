@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS 180030047 1</string>
+    <string name="id_buku">ID Buku</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="penulis">Penulis</string>
+    <string name="gambar">Ilustrasi Gambar</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="tahun_rilis">Tahun Rilis</string>
+    <string name="ringkasan">Ringkasan Buku</string>
+    <string name="tambah">Tambah Buku</string>
+    <string name="edit">Edit Buku</string>
+    <string name="hapus">Hapus Buku</string>
+    <string name="bagikan">Bagikan Buku</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_buku">Data Buku</string>
+
+</resources>
